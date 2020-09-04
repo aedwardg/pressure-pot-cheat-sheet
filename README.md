@@ -6,6 +6,14 @@ This app was created using the [Kivy](https://github.com/kivy) framework and [Ki
 
 Currently, pressure cooker (and slow cooker) apps are focused on full recipes. Pressure Pot Cheat Sheet seeks to be the opposite. Although each user can add recipes in the "Notes" section of each ingredient, the app comes somewhat barebones to accommodate individual needs and tastes. Ideally, this will foster creativity and direct the user's focus toward cooking by removing the rigidity of recipes.
 
+### Sample Screenshots
+
+![Home Screen](./homescreen.png) ![Navigation Drawer](./nav-drawer.png)
+
+### 🥔-quality GIF
+
+![App Gif](./ppcs.gif)
+
 *The master branch currently only contains code for running Pressure Pot Cheat Sheet on Windows, Mac OS and Linux. I anticipate having PPCS on the Google Play Store for Android devices in late July or early August, 2020.*
 
 ## Features
